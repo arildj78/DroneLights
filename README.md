@@ -33,5 +33,5 @@ The color of the lights should be as defined in [Fed Std. No. 3][FS3]
 
 
 [FS3]:  /requirements/FED-STD-3.PDF
-[ETSO]: /requirements/CS-ETSO.pdf
+[ETSO]: /requirements/ETSO.pdf
 [TSO]:  /requirements/TSO_C30_C96.pdf
