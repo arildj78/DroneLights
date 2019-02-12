@@ -40,16 +40,18 @@ The Society of Automotive Engineers Aerospace Standards are not available for fr
 
 
 # Color
-The color of the lights should be as defined in [Fed Std. No. 3][FS3]
+The color of the lights should be as defined in FAR [§27.1397]. 
 * Aviation red
 * Aviation green
 * Aviation white
 
+![CIExy1931](/images/543px-CIExy1931.png "CIE 1931 color space")
 
-[FS3]:      /requirements/FED-STD-3.PDF
+!
 [ETSO]:     /requirements/ETSO.pdf
 [TSO]:      /requirements/TSO_C30_C96.pdf
 [§27.1385]: https://www.ecfr.gov/cgi-bin/text-idx?node=14:1.0.1.3.13#se14.1.27_11385
 [§27.1401]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11401
+[§27.1397]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11397
 [AS 8037]:  https://www.sae.org/standards/content/as8037/
 [AS 8017]:  https://www.sae.org/standards/content/as8017/
