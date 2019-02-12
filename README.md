@@ -47,7 +47,7 @@ The color of the lights should be as defined in FAR [§27.1397].
 
 ![CIExy1931](/images/543px-CIExy1931.png "CIE 1931 color space")
 
-!
+
 [ETSO]:     /requirements/ETSO.pdf
 [TSO]:      /requirements/TSO_C30_C96.pdf
 [§27.1385]: https://www.ecfr.gov/cgi-bin/text-idx?node=14:1.0.1.3.13#se14.1.27_11385
