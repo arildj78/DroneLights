@@ -30,7 +30,7 @@ The FAA issues Technical Standard Orders ([TSO]) which sets a *minimum performan
 | Anticollision lights | TSO-C96a | ETSO-C96a |
 
 ##  Minimum performance standard
-The Society of Automotive Engineers Aerospace Standards are not available for free download. In absence of the SAE documents, the AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT from FAR can be used.
+The Society of Automotive Engineers Aerospace Standards are not available for free download. In absence of the SAE documents, FAR Part 27 - *Airworthiness Standards: Normal Category Rotorcraft* - can be used.
 
 | System               | SAE        | FAR part 27   |
 |----------------------|------------|---------------|
