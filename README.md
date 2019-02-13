@@ -2,8 +2,10 @@
 A standalone rig for adding navigation and strobe lights to your drone
 
 # Design Criteria
-* No electrical connection to host system
+* No electrical connection to the drone
 * Powered by independent battery
+* EMC
+
 
 # Power source
 * 11.1V 450mAh 3S1P
@@ -12,8 +14,9 @@ A standalone rig for adding navigation and strobe lights to your drone
 
 ![Battery](https://github.com/arildj78/DroneLights/raw/master/images/IMG_8416.JPG)
 
-# EMI
-Operation of the light rig shall not reduce up- or downlink ranges by more than 5%. The rig should preferably be compliant with relevant EMI standards.
+# EMC
+Operation of the light rig shall not reduce up- or downlink ranges by more than 5%.
+The rig should preferably be compliant with MIL-STD-461 *(Requirements for the control of Electromagnetic Interference Characteristics of Subsystems and Equipment)* although running a full test is outside of the budget of this project.
 
 # FAR airworthiness
 The US Code of Federal Regulations Title 14 - also known as the Federal Aviation Regulations states in its part 27 [AIRWORTHINESS STANDARDS for NORMAL CATEGORY ROTORCRAFT].
