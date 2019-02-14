@@ -36,13 +36,25 @@ The Society of Automotive Engineers Aerospace Standards are not available for fr
 | Anticollision lights | [AS 8017]  | [§27.1401]    |
 
 ## Position Light Intensity Distribution
-### Minimum intensities in th Horizontal plane
+### Minimum intensities in the horizontal plane of forward and rear position lights.
 | Position Light | Angle from Right or Left of Longitudal Axis Measured from Dead Ahead (deg) | Minimum Intensity (Candelas) |
 |----------------|----------------------------------------------------------------------------|------------------------------|
-|                |   0 to 10   | 40 |
-| Red            |  10 to 20   | 30 |
-| Green          |  20 to 110  |  5 |
-| White          | 110 to 180  | 20 |
+| L and R        |   0 to 10   | 40 |
+| L and R        |  10 to 20   | 30 |
+| L and R        |  20 to 110  |  5 |
+| Aft            | 110 to 180  | 20 |
+
+### Minimum intensities in any vertical plane of forward and rear position lights FAR [§27.1393]
+| Angle above or below the horizontal plane	| Intensity, I |
+|-------------------------------------------|--------------|
+| 0°                                        | 1.00         |
+| 0° to 5°                                  | 0.90         |
+| 5° to 10°                                 | 0.80         |
+| 10° to 15°                                | 0.70         |
+| 15° to 20°  	                            | 0.50         |
+| 20° to 30°                                | 0.30         |
+| 30° to 40°                                | 0.10         |
+| 40° to 90°                                | 0.05         |
 
 
 # Color
@@ -57,7 +69,8 @@ The color of the lights should be as defined in FAR [§27.1397].
 [ETSO]:     /requirements/ETSO.pdf
 [TSO]:      /requirements/TSO_C30_C96.pdf
 [§27.1385]: https://www.ecfr.gov/cgi-bin/text-idx?node=14:1.0.1.3.13#se14.1.27_11385
-[§27.1401]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11401
+[§27.1393]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11393
 [§27.1397]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11397
+[§27.1401]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11401
 [AS 8037]:  https://www.sae.org/standards/content/as8037/
 [AS 8017]:  https://www.sae.org/standards/content/as8017/
