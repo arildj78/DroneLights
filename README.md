@@ -35,6 +35,14 @@ The Society of Automotive Engineers Aerospace Standards are not available for fr
 | Navigation lights    | [AS 8037]  | [§27.1385]    |
 | Anticollision lights | [AS 8017]  | [§27.1401]    |
 
+## Position Light Intensity Distribution
+### Minimum intensities in th Horizontal plane
+| Position Light | Angle from Right or Left of Longitudal Axis Measured from Dead Ahead (deg) | Minimum Intensity (Candelas) |
+|----------------|----------------------------------------------------------------------------|------------------------------|
+|                |   0 to 10   | 40 |
+| Red            |  10 to 20   | 30 |
+| Green          |  20 to 110  |  5 |
+| White          | 110 to 180  | 20 |
 
 
 # Color
