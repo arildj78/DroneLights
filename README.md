@@ -76,5 +76,5 @@ The color of the lights should be as defined in FAR [§27.1397].
 [§27.1401]: https://www.ecfr.gov/cgi-bin/text-idx?node=pt14.1.27&rgn=div5#se14.1.27_11401
 [AS 8037]:  https://www.sae.org/standards/content/as8037/
 [AS 8017]:  https://www.sae.org/standards/content/as8017/
-[SERA]:     https://lovdata.no/static/NLX3/32012r0923.pdf
+[SERA]:  https://www.easa.europa.eu/document-library/regulations/commission-implementing-regulation-eu-no-9232012
 [DroneForskrift]: https://lovdata.no/dokument/SF/forskrift/2015-11-30-1404
