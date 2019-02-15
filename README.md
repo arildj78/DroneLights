@@ -5,7 +5,7 @@ A standalone rig for adding navigation and strobe lights to your drone
 * No electrical connection to the drone
 * Powered by independent battery
 * Negligible Electromagnetic Interference (EMI) to drone
-* Fulfull the requirement for lighting in *Standardised European Rules of the Air* ([SERA]) 3215
+* Fulfull the requirement for lighting in [Standardised European Rules of the Air (SERA)][SERA] 3215
 * Comply with Norwegian regulation [Forskrift om luftfartøy som ikke har fører om bord mv.][DroneForskrift] §59, §60, §67, §68
 * Light emission in compliance with FAR part 27
 
